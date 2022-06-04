@@ -16,12 +16,12 @@ Peraturan / ketentuan:
 * Jika antara Makan , Main , dan juga tidur mencapai 0 , game akan berakhir dan akan memunculkan popup beserta tombol untuk nantinya pemain dapat memulai permainan dari awal
 * Berikut adalah kondisi dari setiap aktifitas yang ada :
         
-        Kondisi keadaan : Diam
-        Kondisi :
-        Makan: -1/3 Menit in game (3 detik)
-        Tidur :-1/10 Menit in game (10 detik)
-        Main : -1/5 Menit in game (5 detik)
-        Belajar : -1/30 Menit in game (30 detik)
+Kondisi keadaan : Diam
+Kondisi :
+Makan: -1/3 Menit in game (3 detik)
+Tidur :-1/10 Menit in game (10 detik)
+Main : -1/5 Menit in game (5 detik)
+Belajar : -1/30 Menit in game (30 detik)
 
 List dari kondisi per 1x klik tombol Makan , Tidur, Main ,Belajar ,ke kafe ,ke kampus, belanja , masak   dalam halaman game  :
 
