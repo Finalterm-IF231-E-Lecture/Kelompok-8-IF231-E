@@ -15,25 +15,25 @@ Peraturan / ketentuan:
 * Waktu yang kami gunakan di sini yaitu 1 detik di dunia nyata = 1 Menit di in game
 * Jika antara Makan , Main , dan juga tidur mencapai 0 , game akan berakhir dan akan memunculkan popup beserta tombol untuk nantinya pemain dapat memulai permainan dari awal
 * Berikut adalah kondisi dari setiap aktifitas yang ada :
-        _____
+        
         Kondisi keadaan : Diam
         Kondisi :
         Makan: -1/3 Menit in game (3 detik)
         Tidur :-1/10 Menit in game (10 detik)
         Main : -1/5 Menit in game (5 detik)
         Belajar : -1/30 Menit in game (30 detik)
-_________________________________
+
 List dari kondisi per 1x klik tombol Makan , Tidur, Main ,Belajar ,ke kafe ,ke kampus, belanja , masak   dalam halaman game  :
 
 
-_____
+
 Kondisi : Makan
 Cycle yang dijalankan : 10 cycle (10 Menit in game)
 Makan: +1% / 1cycle Total /1x Click +10%
 Tidur :-1% / 5cycle Total /1x Click -2%
 Main: -1% / 5cycle Total /1x Click -2%
 Belajar : -1% / 10cycle Total /1x Click -1%
-________
+
 Kondisi : Tidur / Istirahat
 Cycle yang dijalankan : 30 cycle (25 Menit in game)
 Tidur: +1% / 1cycle Total /1x Click +30%
@@ -41,71 +41,49 @@ Makan :-1% / 5cycle Total /1x Click -6%
 Main: -1% / 3cycle Total /1x Click -10%
 Belajar : -1% / 10cycle Total /1x Click -3%
 
-
-
-
-
-
-        ___________
-        Kondisi : Masak
-        Cycle yang dijalankan : 5 cycle ( Menit in game)
+Kondisi : Masak
+Cycle yang dijalankan : 5 cycle ( Menit in game)
 Skill Masak: +1% / 1cycle Total /1x Click +5%
 Makan:-1% / 1cycle Total /1x Click -5%
 Tidur: -1% / 5cycle Total /1x Click -1%
 Main : -1% / 2cycle Total /1x Click -2%
-___________
-
 
 Kondisi : Belajar
-        Cycle yang dijalankan : 15 cycle ( Menit in game)
+Cycle yang dijalankan : 15 cycle ( Menit in game)
 Belajar: +1% / 1cycle Total /1x Click +15%
 Makan:-1% / 3cycle Total /1x Click -3%
 Tidur: -1% / 2 cycle Total /1x Click -7%
 Main : -1% / 4 cycle Total /1x Click -3%
 
 
-
-
-               ______________
 GO TO:
-              Go To : Kampus
+Go To : Kampus
 Cycle yang dijalankan : 30 cycle ( Menit in game)
 Belajar: +1% / 1cycle Total /1x Click +30%
 Makan:-1% / 2cycle Total /1x Click -10%
 Tidur: -1% / 5cycle Total /1x Click -6%
 Main : -1% / 6cycle Total /1x Click -5%
-_____________
+
 Go To : Kafe
 Cycle yang dijalankan : 20 cycle ( Menit in game)
 Tidur: +1% / 1cycle Total /1x Click +20%
 Belajar: -1% / 4cycle Total /1x Click +5%
 Makan:-1% / 5cycle Total /1x Click -4%
 Main : -1% / 4cycle Total /1x Click -5%
-_____________
+
 Go To : Supermarket
 Cycle yang dijalankan : 30 cycle ( Menit in game)
 Tidur: +1% / 1cycle Total /1x Click -30%
 Makan:-1% / 2cycle Total /1x Click -10%
 Belajar: -1% / 5cycle Total /1x Click -4%
 Main : -1% / 7cycle Total /1x Click -2%
-        _____________
-Go To : Warnet
+    
+Go To : Warnet (Tambahan)
 Cycle yang dijalankan : 15 cycle ( Menit in game)
 Main : -1% / 1cycle Total /1x Click -15%
 Belajar: -1% / 3cycle Total /1x Click -5%
 Makan:-1% / 10cycle Total /1x Click -1%
 Tidur: -1% / 5cycle Total /1x Click -3%
-
-
-
-
-
-
-
-
-
-
-
 
 
 Cara Bermain :
